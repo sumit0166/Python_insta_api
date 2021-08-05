@@ -19,7 +19,7 @@ iii. Matplotlib
   v. Pandas
  vi. SeaBorn
  
- # Visualize
+ # Visualization
  
  o Heatmap
  
