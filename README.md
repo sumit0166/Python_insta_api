@@ -12,12 +12,17 @@ the count of posts, followers and following. The data will be split to maintain 
 record of these parameters extracted from datetime.
 
 # Libraries Used
-  i. Selenium
-  ii. bs4 BeautifulSoup
-  iii. Matplotlib
-  iv. NumPy
-  v. Pandas
-  vi. SeaBorn
+  i. Selenium.
+	
+  ii. bs4 BeautifulSoup.
+	
+  iii. Matplotlib.
+	
+  iv. NumPy.
+	
+  v. Pandas.
+	
+  vi. SeaBorn.
  
  # Visualization
  
