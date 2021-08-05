@@ -33,7 +33,7 @@ We Used following libraries to fetch and analyze data.To install this libraries 
   
   6. **_SeaBorn._**
     
-    `pip install seaborn`
+      `pip install seaborn`
  
  # Visualization
  
