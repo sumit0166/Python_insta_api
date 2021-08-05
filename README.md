@@ -27,8 +27,9 @@ iii. Matplotlib
  
 o Bar graph 
  
-![Graph_1](https://user-images.githubusercontent.com/66065422/128351578-08d8b51c-0d51-47b6-aace-e902bc7bcce5.png)
+ ![Graph_1](https://user-images.githubusercontent.com/66065422/128352987-6343a48d-b20e-4cbf-bf71-931753240fa4.png)
  
  o Line Graph
  
-![graph_3](https://user-images.githubusercontent.com/66065422/128351584-7b936594-45e1-443c-bf7c-9dfaacaac862.png)
+ ![graph_3](https://user-images.githubusercontent.com/66065422/128353017-86bdc344-15d6-4c6b-be47-bc86a56d1527.png)
+
