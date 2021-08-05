@@ -23,7 +23,7 @@ iii. Matplotlib
  
  o Heatmap
  
-![Garph_2](https://user-images.githubusercontent.com/66065422/128351566-1ea4b7f4-89b9-4417-a043-d63c61e7fb5d.png = 250x250)
+![Garph_2](https://user-images.githubusercontent.com/66065422/128351566-1ea4b7f4-89b9-4417-a043-d63c61e7fb5d.png)
 
 o Bar graph 
  
