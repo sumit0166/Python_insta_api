@@ -23,7 +23,7 @@ record of these parameters extracted from datetime.
  
  o Heatmap
  
- ![Garph_2](https://user-images.githubusercontent.com/66065422/128352763-820a58dd-ac52-4a97-90f8-a665dd57cac1.png)
+                ![Garph_2](https://user-images.githubusercontent.com/66065422/128352763-820a58dd-ac52-4a97-90f8-a665dd57cac1.png)
  
 o Bar graph 
  
