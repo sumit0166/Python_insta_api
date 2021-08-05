@@ -1,5 +1,5 @@
 
-# **_Instagram Stats USing Python_**
+# Instagram Stats USing Python
 
 Instagram is a quintessential datapool. Meticulous analysis of Instagram is the
 basis of the project. The project will be developed in Python3. The project will ask
