@@ -13,11 +13,11 @@ record of these parameters extracted from datetime.
 
 # Libraries Used
   i. Selenium
- ii. bs4 BeautifulSoup
-iii. Matplotlib
- iv. NumPy
+  ii. bs4 BeautifulSoup
+  iii. Matplotlib
+  iv. NumPy
   v. Pandas
- vi. SeaBorn
+  vi. SeaBorn
  
  # Visualization
  
