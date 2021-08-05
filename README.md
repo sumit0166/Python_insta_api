@@ -1,6 +1,6 @@
 # Python_insta_api
 
-#  INSTAGRAM STATS USING PYTHON
+# INSTAGRAM STATS USING PYTHON
 
 Instagram is a quintessential datapool. Meticulous analysis of Instagram is the
 basis of the project. The project will be developed in Python3. The project will ask
@@ -10,4 +10,4 @@ The data will be collected in the form of dictionaries with resource parameters 
 the count of posts, followers and following. The data will be split to maintain a
 record of these parameters extracted from datetime.
 
-#Libraries Used
+# Libraries Used
