@@ -13,7 +13,7 @@ record of these parameters extracted from datetime.
 # Libraries Used
 We Used following libraries to fetch and analyze data.To install this libraries commands are given below each of the library name. 
   1. **_Selenium._**
-  'pip install selenium'
+          `pip install selenium`
   2. **_bs4 BeautifulSoup._** 
   'pip install beautifulsoup4'
   3. **_Matplotlib._**
