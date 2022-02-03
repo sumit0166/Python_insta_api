@@ -41,14 +41,14 @@ We Used following libraries to fetch and analyze data.To install this libraries 
  
    ![Garph_2](https://user-images.githubusercontent.com/66065422/128352763-820a58dd-ac52-4a97-90f8-a665dd57cac1.png)
    
-                 It shows No of post in a particular month
+    It shows No of post in a particular month
  
 o **_Bar graph_** 
  
  ![Graph_1](https://user-images.githubusercontent.com/66065422/128352987-6343a48d-b20e-4cbf-bf71-931753240fa4.png)
-                It shows post consistancy for days of the week
+    It shows post consistancy for days of the week
  
  o **_Line Graph_**
  
  ![graph_3](https://user-images.githubusercontent.com/66065422/128353017-86bdc344-15d6-4c6b-be47-bc86a56d1527.png)
-                It shows post consistancy for time of the day
+    It shows post consistancy for time of the day
