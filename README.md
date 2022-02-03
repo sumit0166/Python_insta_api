@@ -8,7 +8,7 @@ beautiful soup and other API's to retrieve the user’s data.
 
 The data will be collected in the form of dictionaries with resource parameters like
 the count of posts, followers and following. The data will be split to maintain a
-record of these parameters extracted from datetime.
+record of these parameters extracted from datetime, perform calculations and show in Visualize format like Heatmap, Bar grap etc.
 
 # Libraries Used
 We Used following libraries to fetch and analyze data.To install this libraries commands are given below each of the library name. 
