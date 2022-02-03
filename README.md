@@ -40,6 +40,8 @@ We Used following libraries to fetch and analyze data.To install this libraries 
  o **_Heatmap_**
  
    ![Garph_2](https://user-images.githubusercontent.com/66065422/128352763-820a58dd-ac52-4a97-90f8-a665dd57cac1.png)
+   
+   It shows No of post in a particular month
  
 o **_Bar graph_** 
  
